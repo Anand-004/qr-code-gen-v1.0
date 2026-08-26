@@ -24,7 +24,8 @@
     align-items:center ;
     border: 5px solid #FF3483;
     background-color: #00E0BA ;
-    box-shadow: 10px 10px  #FF3483;
+    box-shadow: 10px 10px  #91008D;
+    border-radius: 30px;
 }
 
 .qrcodespace img{
